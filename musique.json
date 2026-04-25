@@ -1,0 +1,2109 @@
+{
+  "Facile": [
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Platines",
+        "C": "Guitare",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Drake",
+        "C": "Michael Jackson",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Beyoncé",
+        "C": "Elvis Presley",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Drake",
+        "C": "Beyoncé",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Michael Jackson",
+        "C": "Beyoncé",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Guitare",
+        "C": "Platines",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "ABBA",
+        "C": "Coldplay",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Michael Jackson",
+        "C": "Beyoncé",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Drake",
+        "C": "Michael Jackson",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Flûte",
+        "C": "Piano",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Michael Jackson",
+        "C": "Elvis Presley",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Elvis Presley",
+        "C": "Beyoncé",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Platines",
+        "C": "Guitare",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Queen",
+        "C": "Coldplay",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "The Beatles",
+        "C": "Queen",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Piano",
+        "C": "Platines",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Coldplay",
+        "C": "Queen",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Flûte",
+        "C": "Platines",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Michael Jackson",
+        "C": "Drake",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Piano",
+        "C": "Platines",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Piano",
+        "C": "Flûte",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Coldplay",
+        "C": "ABBA",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Michael Jackson",
+        "C": "Elvis Presley",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "Coldplay",
+        "C": "The Beatles",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "The Beatles",
+        "C": "ABBA",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "Queen",
+        "C": "ABBA",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Platines",
+        "C": "Piano",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Guitare",
+        "C": "Piano",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Platines",
+        "C": "Flûte",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "ABBA",
+        "C": "Coldplay",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitare",
+        "C": "Platines",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Elvis Presley",
+        "C": "Michael Jackson",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Flûte",
+        "C": "Guitare",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Elvis Presley",
+        "C": "Beyoncé",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "The Beatles",
+        "C": "ABBA",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Guitare",
+        "C": "Piano",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Elvis Presley",
+        "C": "Michael Jackson",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitare",
+        "C": "Flûte",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "ABBA",
+        "C": "Queen",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Piano",
+        "C": "Guitare",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Coldplay",
+        "C": "Queen",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Platines",
+        "C": "Piano",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "ABBA",
+        "C": "Queen",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "The Beatles",
+        "C": "Queen",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Platines",
+        "C": "Flûte",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Elvis Presley",
+        "C": "Drake",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "The Beatles",
+        "C": "Coldplay",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "Queen",
+        "C": "The Beatles",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Piano",
+        "C": "Flûte",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Flûte",
+        "C": "Guitare",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Beyoncé",
+        "C": "Michael Jackson",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Flûte",
+        "C": "Platines",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Guitare",
+        "C": "Flûte",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Drake",
+        "C": "Elvis Presley",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Coldplay",
+        "C": "The Beatles",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "ABBA",
+        "C": "The Beatles",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "ABBA",
+        "C": "The Beatles",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "Coldplay",
+        "C": "ABBA",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Beyoncé",
+        "C": "Drake",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Queen",
+        "C": "Coldplay",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Drake",
+        "C": "Elvis Presley",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Queen",
+        "C": "ABBA",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Beyoncé",
+        "C": "Elvis Presley",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Michael Jackson",
+        "C": "Drake",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Facile"
+    }
+  ],
+  "Moyen": [
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Elvis Presley",
+        "C": "Michael Jackson",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "The Beatles",
+        "C": "Queen",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "Coldplay",
+        "C": "The Beatles",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Drake",
+        "C": "Beyoncé",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Piano",
+        "C": "Platines",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Piano",
+        "C": "Platines",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Piano",
+        "C": "Flûte",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Drake",
+        "C": "Elvis Presley",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Drake",
+        "C": "Michael Jackson",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Piano",
+        "C": "Flûte",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Elvis Presley",
+        "C": "Drake",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Beyoncé",
+        "C": "Elvis Presley",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Flûte",
+        "C": "Platines",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "Coldplay",
+        "C": "ABBA",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "Queen",
+        "C": "The Beatles",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Guitare",
+        "C": "Piano",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "Queen",
+        "C": "ABBA",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Guitare",
+        "C": "Platines",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Flûte",
+        "C": "Platines",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Flûte",
+        "C": "Guitare",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Flûte",
+        "C": "Piano",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Coldplay",
+        "C": "Queen",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Elvis Presley",
+        "C": "Beyoncé",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "ABBA",
+        "C": "Coldplay",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Queen",
+        "C": "The Beatles",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Drake",
+        "C": "Beyoncé",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Michael Jackson",
+        "C": "Elvis Presley",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Michael Jackson",
+        "C": "Elvis Presley",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Queen",
+        "C": "Coldplay",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "ABBA",
+        "C": "Queen",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Michael Jackson",
+        "C": "Beyoncé",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitare",
+        "C": "Platines",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Queen",
+        "C": "ABBA",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "The Beatles",
+        "C": "Queen",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Platines",
+        "C": "Piano",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "The Beatles",
+        "C": "Coldplay",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Guitare",
+        "C": "Flûte",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Beyoncé",
+        "C": "Michael Jackson",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Michael Jackson",
+        "C": "Drake",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Queen",
+        "C": "Coldplay",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Flûte",
+        "C": "Piano",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Piano",
+        "C": "Guitare",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Beyoncé",
+        "C": "Michael Jackson",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Platines",
+        "C": "Piano",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Platines",
+        "C": "Flûte",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Beyoncé",
+        "C": "Drake",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "The Beatles",
+        "C": "ABBA",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "ABBA",
+        "C": "The Beatles",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Coldplay",
+        "C": "The Beatles",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Elvis Presley",
+        "C": "Michael Jackson",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "The Beatles",
+        "C": "Coldplay",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Guitare",
+        "C": "Piano",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "ABBA",
+        "C": "Queen",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Beyoncé",
+        "C": "Elvis Presley",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "ABBA",
+        "C": "Coldplay",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Platines",
+        "C": "Guitare",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitare",
+        "C": "Flûte",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Michael Jackson",
+        "C": "Beyoncé",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Coldplay",
+        "C": "ABBA",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Piano",
+        "C": "Guitare",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Moyen"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Drake",
+        "C": "Michael Jackson",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "The Beatles",
+        "C": "ABBA",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "ABBA",
+        "C": "The Beatles",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Moyen"
+    }
+  ],
+  "Difficile": [
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "Queen",
+        "C": "ABBA",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Drake",
+        "C": "Michael Jackson",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Drake",
+        "C": "Michael Jackson",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Flûte",
+        "C": "Platines",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Drake",
+        "C": "Elvis Presley",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Michael Jackson",
+        "C": "Beyoncé",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "ABBA",
+        "C": "Queen",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Drake",
+        "C": "Beyoncé",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Elvis Presley",
+        "C": "Drake",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "ABBA",
+        "C": "Coldplay",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "The Beatles",
+        "C": "ABBA",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Queen",
+        "C": "ABBA",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Elvis Presley",
+        "C": "Beyoncé",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Elvis Presley",
+        "C": "Drake",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Beyoncé",
+        "C": "Drake",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "Queen",
+        "C": "The Beatles",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Piano",
+        "C": "Flûte",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Drake",
+        "C": "Elvis Presley",
+        "D": "Michael Jackson"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "ABBA",
+        "C": "Queen",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Piano",
+        "C": "Platines",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "ABBA",
+        "C": "Coldplay",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Beyoncé",
+        "C": "Michael Jackson",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Queen",
+        "C": "Coldplay",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Queen",
+        "C": "The Beatles",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitare",
+        "C": "Flûte",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Flûte",
+        "C": "Piano",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Coldplay",
+        "C": "Queen",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Platines",
+        "C": "Flûte",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Flûte",
+        "C": "Guitare",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Platines",
+        "C": "Piano",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Flûte",
+        "C": "Platines",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Guitare",
+        "C": "Piano",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "Coldplay",
+        "C": "ABBA",
+        "D": "The Beatles"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Drake",
+        "C": "Beyoncé",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Platines",
+        "C": "Guitare",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "Coldplay",
+        "C": "The Beatles",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Elvis Presley",
+        "C": "Michael Jackson",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "The Beatles",
+        "C": "Queen",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Guitare",
+        "C": "Flûte",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Beyoncé",
+        "C": "Elvis Presley",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Coldplay",
+        "B": "ABBA",
+        "C": "The Beatles",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Guitare",
+        "C": "Piano",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "The Beatles",
+        "C": "Coldplay",
+        "D": "Queen"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Guitare",
+        "B": "Platines",
+        "C": "Flûte",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "ABBA",
+        "B": "The Beatles",
+        "C": "Queen",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Michael Jackson",
+        "C": "Elvis Presley",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitare",
+        "C": "Platines",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Michael Jackson",
+        "C": "Drake",
+        "D": "Elvis Presley"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Flûte",
+        "C": "Guitare",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Platines",
+        "C": "Piano",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "Coldplay",
+        "C": "The Beatles",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Drake",
+        "B": "Elvis Presley",
+        "C": "Michael Jackson",
+        "D": "Beyoncé"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "ABBA",
+        "C": "The Beatles",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "The Beatles",
+        "C": "ABBA",
+        "D": "Coldplay"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Guitare",
+        "C": "Platines",
+        "D": "Piano"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Michael Jackson",
+        "B": "Elvis Presley",
+        "C": "Beyoncé",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Flûte",
+        "B": "Piano",
+        "C": "Guitare",
+        "D": "Platines"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "Queen",
+        "B": "The Beatles",
+        "C": "Coldplay",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Piano",
+        "B": "Platines",
+        "C": "Guitare",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Piano",
+        "C": "Guitare",
+        "D": "Flûte"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Beyoncé",
+        "B": "Michael Jackson",
+        "C": "Elvis Presley",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel instrument est utilisé par un DJ ?",
+      "options": {
+        "A": "Platines",
+        "B": "Piano",
+        "C": "Flûte",
+        "D": "Guitare"
+      },
+      "answer": "Platines",
+      "level": "Difficile"
+    },
+    {
+      "question": "Quel groupe a chanté Bohemian Rhapsody ?",
+      "options": {
+        "A": "The Beatles",
+        "B": "Queen",
+        "C": "Coldplay",
+        "D": "ABBA"
+      },
+      "answer": "Queen",
+      "level": "Difficile"
+    },
+    {
+      "question": "Qui est le roi du pop ?",
+      "options": {
+        "A": "Elvis Presley",
+        "B": "Michael Jackson",
+        "C": "Beyoncé",
+        "D": "Drake"
+      },
+      "answer": "Michael Jackson",
+      "level": "Difficile"
+    }
+  ]
+}
